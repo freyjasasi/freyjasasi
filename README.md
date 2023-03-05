@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @freyjasasi
+- 👋 Hi, I’m Sasi
 - 👀 I’m interested in programing, testing and tech
 - 🌱 Ask me about selenium, Playwright, java and AI
 
